@@ -2,8 +2,9 @@
 
 ![RXL-RADSet](https://img.shields.io/badge/Dataset-RXL--RADSet-blue)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-lightgrey)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.03232v1-b31b1b.svg)](https://doi.org/10.48550/arXiv.2601.03232)
 
-### RXL-RADSet: A Radiologist-Validated Synthetic Benchmark for Language Models
+### Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models
 
 [Kartik Bose](mailto:0xkbose@pm.me)<sup>1</sup>, Raghuraman Soundararajan<sup>1</sup>, Abhinandan Kumar<sup>1</sup>, Priya Mudgil<sup>1</sup>, Samonee Ralmilay<sup>1</sup>, Niharika Dutta<sup>1</sup>, Manphool Singhal<sup>1</sup>, Arun Sharma<sup>1</sup>, Saugata Sen<sup>2</sup>, Anurima Patra<sup>2</sup>, Priya Gosh<sup>2</sup>, Abanti Das<sup>3</sup>, Amit Gupta<sup>4</sup>, Ashish Verma<sup>5</sup>, Dipin Sudhakaran<sup>6</sup>, Ekta Dhamija<sup>7</sup>, Himangi Unde<sup>8</sup>, Ishan Kumar<sup>5</sup>, Krithika Rangarajan<sup>7</sup>, Prerna Garg<sup>9</sup>, Rachel Sequeira<sup>8</sup>, Sudhin Shylendran<sup>10</sup>, Taruna Yadav<sup>11</sup>, Tej Pal<sup>4</sup>, <sup>*</sup>[Pankaj Gupta](mailto:pankajgupta959@gmail.com)<sup>1</sup>, 
 
