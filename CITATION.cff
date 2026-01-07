@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: RXL-RADSet: A Radiologist-Validated Synthetic Benchmark for Language Models
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - family-names: <!-- TODO: Add first author family name -->
+    given-names: <!-- TODO: Add first author given name -->
+    affiliation: <!-- TODO: Add affiliation -->
+  - family-names: <!-- TODO: Add second author family name -->
+    given-names: <!-- TODO: Add second author given name -->
+    affiliation: <!-- TODO: Add affiliation -->
+version: 1.0.0
+doi: <!-- TODO: Add DOI if available -->
+date-released: 2025-01-01
+url: https://github.com/yourusername/RADSet
+contact:
+  - email: <!-- TODO: Add contact email -->
+    affiliation: <!-- TODO: Add institution -->
+keywords:
+  - medical imaging
+  - radiology
+  - natural language processing
+  - language models
+  - synthetic data
+  - benchmark
+  - chest x-ray
+license: CC-BY-NC-SA-4.0
+abstract: |
+  RXL-RADSet is a radiologist-validated synthetic benchmark dataset designed for
+  evaluating language models on radiology report understanding and generation tasks.
+  The dataset includes validated reports across multiple imaging modalities with
+  pre-defined train/validation/test splits for fair model evaluation.
