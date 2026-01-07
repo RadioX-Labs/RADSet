@@ -97,25 +97,19 @@ This dataset aims to advance research in medical language models by providing a 
 
 Below are representative samples from the RXL-RADSet dataset. Click on any report to view the full PDF.
 
-### LI-RADS Samples
-
-| Report | Modality | Profile | RADS Score |
-|--------|----------|---------|------------|
-| [R038_L_MRI.pdf](assets/samples/LI-RADS/MRI/R038_L_MRI.pdf) | MRI | 3 | 3 |
-| [R095_L_CT.pdf](assets/samples/LI-RADS/CT/R095_L_CT.pdf) | CT | 2 | LR-TR 5 |
 
 ### O-RADS Samples
 
 | Report | Modality | Profile | RADS Score |
 |--------|----------|---------|------------|
-| [R013_O_MRI.pdf](assets/samples/O-RADS/MRI/R013_O_MRI.pdf) | MRI | 4 | 3 |
-| [R076_O_US.pdf](assets/samples/O-RADS/US/R076_O_US.pdf) | Ultrasound | 2 | 4 |
+| [R013_O_MRI.pdf](assets/samples/O-RADS/MRI/R013_O_MRI.pdf) | MRI | 1 | 4 |
+| [R076_O_US.pdf](assets/samples/O-RADS/US/R076_O_US.pdf) | Ultrasound | 1 | 2 |
 
 ### PI-RADS Samples
 
 | Report | Modality | Profile | RADS Score |
 |--------|----------|---------|------------|
-| [R065_P_MRI.pdf](assets/samples/PI-RADS/R065_P_MRI.pdf) | MRI | 5 | 4 |
+| [R065_P_MRI.pdf](assets/samples/PI-RADS/R065_P_MRI.pdf) | MRI | 4 | 1 |
 
 ### Metadata
 
